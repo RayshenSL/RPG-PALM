@@ -2,4 +2,6 @@
 
 RPG-Palm: Realistic Pseudo-data Generation for Palmprint Recognition.
 
+Paper arxiv:  https://arxiv.org/abs/2307.14016
+
 Official release code coming soon.
